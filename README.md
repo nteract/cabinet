@@ -10,5 +10,8 @@ Exploring a new notebook container format
 * (somehow) metadata for outputs gets persisted
 * There's a manifest at the top layer to help tie this all together
 
-The reason we're exploring this is for git friendliness while keeping outputs.
+The reason we're exploring this is for
+
+* git friendliness, while keeping outputs.
+* size friendliness, by virtue of having images and other binary data separate
 
